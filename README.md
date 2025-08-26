@@ -9,8 +9,8 @@ Este projeto cria um servidor **Apache (httpd)** rodando em um container Docker,
 ## ▶️ Como executar
 
 1. Clone este repositório:
-   git clone https://github.com/seu-usuario/meu-apache.git
-   cd meu-apache
+   git clone https://github.com/Ramos902/Docker_WEX-DIO.git
+   cd Docker_WEX-DIO
 
 2. Suba o container com Docker Compose:
    docker-compose up -d
